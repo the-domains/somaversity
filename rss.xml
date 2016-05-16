@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[SOMAVERSITY]]></title>
         <description><![CDATA[SOMAVERSITY]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/somaversity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 09:28:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 16 May 2016 09:28:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/somaversity/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[100 Stunning Picture Quotes That Will Supercharge Your Creativity]]></title>
+            <description><![CDATA[<article><h1>100 Stunning Picture Quotes That Will Supercharge Your Creativity</h1><p>Find your next favorite quote rendered in stunning graphic design.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab8424258c57e49e23b68199e2e806598a1edf6e.png"></article>]]></description>
+            <link>https://designschool.canva.com/blog/picture-quotes/</link>
+            <guid isPermaLink="false">4936de6f-45c1-4f9a-af92-b838cd13dc6e</guid>
+            <pubDate>Mon, 16 May 2016 09:28:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New SpaceX landing photos make you feel like the rocket is coming down on top of you]]></title>
             <description><![CDATA[<article><h1>New SpaceX landing photos make you feel like the rocket is coming down on top of you</h1><p>Up until now, we've really only seen SpaceX's rocket landing in the middle of the ocean from afar. Chase planes near the drone ship provided a spectacular view of the milestone event, but now, S...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aaef34df6ca9a285c5bdf2adaf9b1abfcc018b79.jpg"></article>]]></description>
